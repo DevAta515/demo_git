@@ -1,2 +1,2 @@
-console.log("E-com App")
+console.log("E - com Application")
 console.log("New Feature was added")
