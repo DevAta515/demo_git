@@ -1,2 +1,2 @@
-console.log("E-com App")
+console.log("E-commerce App")
 console.log("New Feature was added")
